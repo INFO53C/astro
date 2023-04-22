@@ -36,9 +36,9 @@ export const SITE = {
     ytChannelId: '',
     // Optional, user/author settings (example)
     // Author: name
-    author: '', // Example: Fred K. Schott
+    author: '', // Example: A
     // Author: Twitter handler
-    authorTwitter: '', // Example: FredKSchott
+    authorTwitter: 'info53c', // Example: info53c
     // Author: Image external source
     authorImage: '', // Example: https://pbs.twimg.com/profile_images/1272979356529221632/sxvncugt_400x400.jpg, https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
     // Author: Bio
