@@ -1,4 +1,2 @@
 [functions]
     external_node_modules = ["astro", "vscode-oniguruma"]
-[build]
-    base = "dist"
