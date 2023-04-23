@@ -2,10 +2,10 @@
 export const prerender = true
 
 import { getCollection } from 'astro:content'
-import DefaultPageLayout from '$/layouts/default.astro'
-import PostPreviewList from '$/components/PostPreviewList.astro'
-import Paginator from '$/components/Paginator.astro'
-import { PAGE_SIZE } from '$/config'
+import DefaultPageLayout from '../../layouts/default.astro'
+import PostPreviewList from '../../components/PostPreviewList.astro'
+import Paginator from '../../components/Paginator.astro'
+import { PAGE_SIZE } from '../../config'
 
 let title = 'Blog'
 let description = 'Information Security Articles'
@@ -23,6 +23,6 @@ const { page } = Astro.props
 
 ---
 <DefaultPageLayout content={{ title, description }}>
-    <PostPreviewList posts={page.data} />
+    <PostPreviewList post={page.data} />
     <Paginator page={page} />
 </DefaultPageLayout>
