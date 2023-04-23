@@ -6,7 +6,7 @@ tags:
   - jam-stack
 author: A
 authorTwitter: info53c
-date: "2022-09-18T13:10:23.402Z"
+date: "2023-01-10"
 image: https://images.unsplash.com/photo-1589409514187-c21d14df0d04
 category: design
 ---
