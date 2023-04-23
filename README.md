@@ -44,13 +44,3 @@ There's not much to know about commands. Just clone this template, and start wor
 
 > know a site built with Astro Ink? Let me know on [Twitter](https://twitter.com/aftabbuddy)
 
-## Wanna learn Astro while building Ink?
-This theme was initially built with first an alpha, and then a beta version of the `Astro` Framework. If you're just starting with `Astro`, you can actually learn `Astro` while building this very theme by following a series of blogs I've written that teaches you Astro ground-up!
-
-Head over to `aalam.in/blog` and know
-- [How to set Astro up and get it running with essential defaults for styling, prototyping, and incremental deployments](https://aalam.in/blog/astro-get-up-and-running)
-- [Managing presentational components and creating Astro pages](https://aalam.in/blog/astro-and-site-strcuture)
-- [Feeding local as well as remote data to the Astro pages](https://aalam.in/blog/astro-and-data)
-- [Putting interactivity where you absolutely cannot do without it in Astro](https://aalam.in/blog/astro-and-interactivity)
-- [Creating data-driven, dynamic pages and paginated results in Astro](https://aalam.in/blog/astro-and-dynamic-pages)
-- [Author your Astro site's content with Git-based CMSs](https://aalam.in/blog/astro-and-git-cms-netlify)
